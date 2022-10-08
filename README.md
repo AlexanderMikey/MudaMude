@@ -12,4 +12,4 @@ Feature
 Techs 
 1. HTML & CSS
 
-Prototype : https://www.figma.com/file/KLERmuGBOrjzeXYe3BMkdD/Apple-Developer-Academy---MudaMude?node-id=0%3A1
+Prototype : https://www.figma.com/file/ksUGsg5JtlDO1JzlvVlw2l/MudaMude?node-id=0%3A1
