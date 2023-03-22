@@ -3,7 +3,6 @@
 Front-End MudaMude in 24 inch screen
 
 MudaMude is a website platform based on a software engineering project in finding events and activities for youth and students
-MaiBoutique is developed using the Laravel and Bootstrap frameworks, which are both widely recognized for their efficiency, reliability, and user-friendliness.
 
 Feature 
 1. Event : Find events & activities such as online webinar & seminar
