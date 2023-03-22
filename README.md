@@ -1,8 +1,6 @@
 # FrontEnd-MudaMude
-MAIBOUTIQUE
 
 Front-End MudaMude in 24 inch screen
-MaiBoutique is an online platform that offers convenient and diverse clothing shopping options. The website boasts a vast collection of clothes that are versatile and appropriate for various occasions. With so many e-commerce shops available, it can be overwhelming to select the right one. However, MaiBoutique aims to simplify the process by providing high-quality clothing options at affordable prices, making it an ideal choice for many customers.
 
 MudaMude is a website platform based on a software engineering project in finding events and activities for youth and students
 MaiBoutique is developed using the Laravel and Bootstrap frameworks, which are both widely recognized for their efficiency, reliability, and user-friendliness.
